@@ -22,10 +22,13 @@
   }
 }
 
-.jumbotron {
-  background-image: url(img/bannerlogo.jpg);
+.jumbotron{
+    background: url("img/bannerlogo.jpg") no-repeat center center;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
 }
-
 .nav-scroller {
   position: relative;
   z-index: 2;
