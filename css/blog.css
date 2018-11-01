@@ -22,6 +22,10 @@
   }
 }
 
+.jumbotron {
+  background-image: url(img/bannerlogo.jpg);
+}
+
 .nav-scroller {
   position: relative;
   z-index: 2;
